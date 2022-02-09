@@ -1,2 +1,2 @@
 # automatic
-simple
+простая автоматизация airplay-ng! 
